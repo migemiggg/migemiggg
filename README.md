@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Miguel Camacho 
+> Soy un desarrollador enfocado en construir sistemas eficientes, automatizar procesos y resolver problemas operativos. Me especializo en el desarrollo backend y la gestión de bases de datos.
 
-<!--
-**migemiggg/migemiggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😋 Sobre mí ✧ ೃ༄*ੈ
+- ☻ Estudio Ingeniería de Software y compagino la universidad con el desarrollo en el mundo real.
+- ♜ Construyo y mantengo sistemas de gestión (ERP) para el sector financiero, integrando facturación, logística y contratos.
+- ☛ Impulsando el desarrollo de software a través de mi iniciativa **KOREX**.
+- ☁ Fuera del código, me gusta optimizar hardware, armar setups y el gaming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Stack & Herramientas ✧ ೃ༄*ੈ✩
+- **Lenguajes & Backend:** Python, JavaScript, Flask
+- **Bases de Datos:** PostgreSQL, SQLite, SQL
+- **AI-Driven Development:** Arquitectura Asistida, Integración de APIs, OpenAI / Copilot
+- **Operaciones:** Gestión de Servidores, Soporte IT, Git
+
+---
+
+## 📬 Contacto •°. *࿐
+- ✉️ **Email:**
+> contacto.acamacho@gmail.com
+- 💼 **Freelance:**
+> https://profile.indeed.com/p/miguelalexanderc-138ybbr
+
+---
